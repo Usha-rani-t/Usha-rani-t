@@ -1,16 +1,87 @@
-## Hi there 👋
+# Hi, I'm Usha Rani 👋
 
-<!--
-**Usha-rani-t/Usha-rani-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Embedded Software Engineer | Embedded Linux | PCIe | RTOS | AI Accelerator Validation
 
-Here are some ideas to get you started:
+Experienced Embedded Software Engineer with hands-on experience in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Embedded Linux Development
+- PCIe Driver Integration & Debugging
+- AI Accelerator Validation
+- FreeRTOS & RTOS Concepts
+- Linux Device Driver Debugging
+- DMA & Interrupt Handling
+- Yocto BSP Customization
+- Embedded C & Python Automation
+- GStreamer Video Processing
+- Hardware-Software Integration
+
+---
+
+## Technical Skills
+
+### Programming
+- C
+- Embedded C
+- Python
+
+### Embedded Platforms
+- ESP32
+- STM32
+- ARA-1
+- ARA-2
+- i.MX8
+- Renesas SH7780
+
+### Operating Systems
+- Linux
+- FreeRTOS
+- Nucleus RTOS
+
+### Protocols & Interfaces
+- PCIe
+- UART
+- SPI
+- I2C
+
+### Tools
+- Visual Studio Code
+- GDB
+- Git
+- Yocto
+- Parasoft
+- GStreamer
+
+---
+
+## Featured Projects
+
+### PCIe AI Accelerator Integration
+- Integrated ARA-1 Edge AI accelerator with robotic platform
+- Worked on PCIe communication debugging
+- Performed AI model validation and performance testing
+- Debugged DMA and interrupt handling issues
+
+### Medical Device Software Validation
+- Worked on software verification and validation for medical devices
+- Executed unit, integration, and system testing
+- Used Parasoft for static analysis and validation
+
+### ESP32 Home Automation
+- Developed FreeRTOS-based automation system
+- Implemented task synchronization and RTC integration
+- Optimized multitasking and debugging
+
+---
+
+## Currently Learning
+- Linux Device Drivers
+- PCIe Internals
+- Embedded Validation Automation
+- Yocto BSP Development
+
+---
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/usha-rani-teli-047943234/
+- Email: usharani.teli1105@gmail.com
